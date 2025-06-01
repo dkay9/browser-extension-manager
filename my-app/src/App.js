@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import Header from './components/Header';
+import Extension from './components/Extension'
 import moonIcon from './assets/images/icon-moon.svg';
 import sunIcon from './assets/images/icon-sun.svg';
 
@@ -15,6 +16,7 @@ function App() {
           moonIcon={moonIcon}
           sunIcon={sunIcon}
         />
+        <Extension />
         {/* Other components */}
       </div>
     </div>
