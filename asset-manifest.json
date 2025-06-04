@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/browser-extension-manager/static/css/main.9a179b8e.css",
-    "main.js": "/browser-extension-manager/static/js/main.303911a6.js",
+    "main.css": "/browser-extension-manager/static/css/main.672d3b42.css",
+    "main.js": "/browser-extension-manager/static/js/main.3ae12df4.js",
     "static/js/453.ed3810f9.chunk.js": "/browser-extension-manager/static/js/453.ed3810f9.chunk.js",
     "static/media/logo.svg": "/browser-extension-manager/static/media/logo.5f0cb0ee764f4e85c67cc40a83d7c03e.svg",
     "static/media/logo-markup-notes.svg": "/browser-extension-manager/static/media/logo-markup-notes.654a0c7160cee9e059bf.svg",
@@ -19,12 +19,12 @@
     "static/media/logo-tab-master-pro.svg": "/browser-extension-manager/static/media/logo-tab-master-pro.f9aa72a44199e67057e8.svg",
     "static/media/icon-sun.svg": "/browser-extension-manager/static/media/icon-sun.6bef86cf311023651f26481291859e12.svg",
     "static/media/icon-moon.svg": "/browser-extension-manager/static/media/icon-moon.894a1ef642e0f67d13003df0ae772bdf.svg",
-    "main.9a179b8e.css.map": "/browser-extension-manager/static/css/main.9a179b8e.css.map",
-    "main.303911a6.js.map": "/browser-extension-manager/static/js/main.303911a6.js.map",
+    "main.672d3b42.css.map": "/browser-extension-manager/static/css/main.672d3b42.css.map",
+    "main.3ae12df4.js.map": "/browser-extension-manager/static/js/main.3ae12df4.js.map",
     "453.ed3810f9.chunk.js.map": "/browser-extension-manager/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9a179b8e.css",
-    "static/js/main.303911a6.js"
+    "static/css/main.672d3b42.css",
+    "static/js/main.3ae12df4.js"
   ]
 }
