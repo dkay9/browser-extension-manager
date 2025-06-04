@@ -43,7 +43,7 @@ function App() {
 
   return (
     <div className={darkMode ? 'dark' : ''}>
-      <div className="min-h-screen bg-neutral-200 dark:bg-neutral-900 text-neutral-900 dark:text-neutral-0 py-4 px-28">
+      <div className="min-h-screen bg-neutral-200 dark:bg-neutral-900 text-neutral-900 dark:text-neutral-0 py-4 px-8 md:px-10 lg:px-24">
         <Header
           darkMode={darkMode}
           toggleDarkMode={() => setDarkMode(!darkMode)}
